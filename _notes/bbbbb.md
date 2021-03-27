@@ -1,9 +1,7 @@
+---
 title: bbbbb
-
 permalink: bbbbb
-
 id: bbbbb{#custom-id}
-
 ---
 
 bbbbbb

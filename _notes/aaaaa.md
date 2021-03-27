@@ -1,8 +1,7 @@
+---
 title: aaaaa
 permalink: aaaaa
-
 id: aaaaa{#custom-id}
-
 ---
 
 aaaaaaaa
