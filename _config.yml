@@ -1,12 +1,12 @@
-title: Simply Jekyll
-name: John Doe
-user_description: Programmer (Interested in Philosophy and Math)
-notes_url: "https://simply-jekyll.netlify.app"
+title: drama-poesia
+name: leonardo
+user_description: <i>o lugar de onde falo é um nada bem no meio de tudo</i>
+notes_url: "https://drama-poesia.netlify.app"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: John Doe
+copyright_name: leonardo
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://drama-poesia.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
