@@ -1,8 +1,8 @@
 ---
+title: Apreender o máximo possível
 permalink: apreender  
 id: apreender{#custom-id}
-title: Apreender o máximo possível
----  
+---
 
 O que significa, exatamente, apreender o máximo possível?   
 

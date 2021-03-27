@@ -1,7 +1,7 @@
 ---
+title: Organize somente após a captura 
 permalink: organizar  
 id: organizar{#custom-id}
-title: Organize somente após a captura 
 ---
 
 Eu devo considerar a tecnologia como minha aliada, no sentido de utilizá-la como ferramenta essencial para gerenciar essas notas.  
