@@ -1,5 +1,5 @@
 ---
-title: Organize somente após a captura 
+title: Organizar 
 permalink: organizar  
 id: organizar{#custom-id}
 ---

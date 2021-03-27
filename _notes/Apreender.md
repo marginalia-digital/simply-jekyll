@@ -1,5 +1,5 @@
 ---
-title: Apreender o máximo possível
+title: Apreender
 permalink: apreender  
 id: apreender{#custom-id}
 ---
