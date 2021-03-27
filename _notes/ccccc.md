@@ -1,5 +1,9 @@
 title: ccccc
 
+permalink: ccccc
+
+id: ccccc{#custom-id}
+
 ---
 
 ccccccc
