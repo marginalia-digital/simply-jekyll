@@ -1,5 +1,5 @@
 ---
-permalink: organize  
+permalink: organizar  
 id: organizar{#custom-id}
 title: Organize somente após a captura 
 ---
