@@ -11,4 +11,4 @@ Poderia fazer isso em um caderno? Ou manter as anotações ao redor das páginas
 Mas como eu posso concatená-las e localizá-las de maneira eficiente?  
 Por isso o uso da tecnologia.  
 
-E aí sim, considerar tudo isso como parte do processo de criação de algo maior, podendo [ressignificar](/sintetizar){: .internal-link} meus pensamentos.
+E aí sim, considerar tudo isso como parte do processo de criação de algo maior, podendo [[sintetizar]] meus pensamentos.
