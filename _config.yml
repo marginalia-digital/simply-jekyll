@@ -1,10 +1,10 @@
-title: ________drama-poesia
+title: abismo::fulgor
 name: leonardo costa
 user_description: <i>o lugar de onde falo é um nada bem no meio de tudo</i>
 notes_url: "https://drama-poesia.netlify.app"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: drama-poesia 
+copyright_name: abismo::fulgor
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://drama-poesia.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
