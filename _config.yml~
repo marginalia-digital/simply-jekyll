@@ -1,12 +1,12 @@
-title: m a r g i n á l i a _ d i g i t a l
+title: a b i s m o &#58; f u l g o r
 name: leonardo v. costa
-user_description: <i>anotações ao redor das páginas</i>
-notes_url: "https://marginalia-digital.netlify.app"
+user_description: <i>anotações ao redor das páginas:</i>
+notes_url: "https://abismo-fulgor.netlify.app"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: leonardo v. costa
+copyright_name: abismo:fulgor
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://marginalia-digital.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abismo-fulgor.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
